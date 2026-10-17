@@ -1,2 +1,3 @@
  Git is a version control system .
  its help team works .
+Summary: Git tracks changes in files.
